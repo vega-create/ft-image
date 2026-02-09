@@ -1,0 +1,15 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SEO from '../components/SEO.astro';
+import AdSense from '../components/AdSense.astro';
+import FaviconGen from '../components/tools/FaviconGen';
+---
+<BaseLayout>
+  <SEO slot="head" title="Favicon Generator" description="Create favicons from text or uploaded images." />
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <nav class="text-sm text-gray-500 mb-6"><a href="/" class="hover:text-primary-500">Home</a> <span class="mx-2">›</span> <span class="text-gray-900">Favicon Generator</span></nav>
+    <h1 class="text-3xl font-bold text-gray-900 mb-6">Favicon Generator</h1>
+    <FaviconGen client:only="react" />
+    <AdSense slot="bottom" />
+  </div>
+</BaseLayout>
