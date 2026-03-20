@@ -14,8 +14,6 @@ faq:
   - q: "How often is this image guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page and check back for the most current image recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #f8fafc; border-radius: 12px; padding: 1.2rem; border: 1px solid #e2e8f0;"><div style="font-weight: 700; font-size: 0.85rem; color: #334155; margin-bottom: 0.8rem;">Common Breakpoints</div><div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.4rem;"><div style="background: #fce7f3; padding: 0.5rem; border-radius: 8px; text-align: center; border: 1px solid #f9a8d4;"><div style="font-weight: 800; color: #be185d; font-size: 0.9rem;">375px</div><div style="font-size: 0.65rem; color: #6b7280;">Mobile</div></div><div style="background: #ede9fe; padding: 0.5rem; border-radius: 8px; text-align: center; border: 1px solid #c4b5fd;"><div style="font-weight: 800; color: #6d28d9; font-size: 0.9rem;">768px</div><div style="font-size: 0.65rem; color: #6b7280;">Tablet</div></div><div style="background: #dbeafe; padding: 0.5rem; border-radius: 8px; text-align: center; border: 1px solid #93c5fd;"><div style="font-weight: 800; color: #1e40af; font-size: 0.9rem;">1024px</div><div style="font-size: 0.65rem; color: #6b7280;">Laptop</div></div><div style="background: #dcfce7; padding: 0.5rem; border-radius: 8px; text-align: center; border: 1px solid #86efac;"><div style="font-weight: 800; color: #166534; font-size: 0.9rem;">1440px</div><div style="font-size: 0.65rem; color: #6b7280;">Desktop</div></div></div></div>
 Responsive images serve appropriately sized images based on the viewer device, saving bandwidth on mobile while maintaining quality on large screens.
 
 ## The Problem

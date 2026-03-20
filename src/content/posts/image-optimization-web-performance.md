@@ -14,8 +14,6 @@ faq:
   - q: "How often is this image guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page and check back for the most current image recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #f8fafc; border-radius: 12px; padding: 1.2rem; border: 1px solid #e2e8f0;"><div style="font-weight: 700; font-size: 0.85rem; color: #334155; margin-bottom: 0.8rem;">Image Format Comparison (same photo)</div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 85%; background: #dc2626; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">PNG: ~150KB (lossless)</div></div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 55%; background: #f59e0b; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">JPEG: ~80KB (lossy)</div></div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 35%; background: #22c55e; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">WebP: ~50KB</div></div><div style="display: flex; align-items: center; gap: 0.5rem;"><div style="width: 25%; background: #166534; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">AVIF: ~35KB ✓</div></div></div>
 Images typically account for 50-80% of a webpage total size. Optimizing them is one of the most impactful things you can do for web performance.
 
 ## Why Image Optimization Matters

@@ -14,8 +14,6 @@ faq:
   - q: "How often is this image guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page and check back for the most current image recommendations."
 ---
-
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem;"><div style="padding: 0.6rem; background: #dbeafe; border-radius: 8px; text-align: center; border: 1px solid #93c5fd; font-size: 0.75rem;"><b style="color: #1e40af;">Text Overlay</b><br><span style="color: #6b7280;">Visible "©" stamp</span></div><div style="padding: 0.6rem; background: #dcfce7; border-radius: 8px; text-align: center; border: 1px solid #86efac; font-size: 0.75rem;"><b style="color: #166534;">Logo Overlay</b><br><span style="color: #6b7280;">Brand watermark</span></div><div style="padding: 0.6rem; background: #fef3c7; border-radius: 8px; text-align: center; border: 1px solid #fde68a; font-size: 0.75rem;"><b style="color: #92400e;">Invisible Digital</b><br><span style="color: #6b7280;">Hidden metadata</span></div><div style="padding: 0.6rem; background: #fce7f3; border-radius: 8px; text-align: center; border: 1px solid #f9a8d4; font-size: 0.75rem;"><b style="color: #9d174d;">EXIF Data</b><br><span style="color: #6b7280;">Ownership info</span></div></div>
 Watermarking adds a visible mark to your images that identifies you as the creator or owner. While not foolproof protection, watermarks deter casual theft and help with attribution.
 
 ## Types of Watermarks

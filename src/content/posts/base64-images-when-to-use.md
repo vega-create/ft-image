@@ -14,8 +14,6 @@ faq:
   - q: "How often is this image guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page and check back for the most current image recommendations."
 ---
-
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.8rem;"><div style="padding: 0.8rem; background: #dcfce7; border-radius: 10px; text-align: center; border: 1px solid #86efac;"><div style="font-weight: 700; color: #166534; font-size: 0.85rem;">Base64 Inline</div><div style="font-size: 0.7rem; color: #6b7280; margin-top: 0.3rem;">✓ No HTTP request</div><div style="font-size: 0.7rem; color: #6b7280;">✓ Works offline</div><div style="font-size: 0.7rem; color: #dc2626;">✗ 33% larger</div></div><div style="padding: 0.8rem; background: #dbeafe; border-radius: 10px; text-align: center; border: 1px solid #93c5fd;"><div style="font-weight: 700; color: #1e40af; font-size: 0.85rem;">External File</div><div style="font-size: 0.7rem; color: #6b7280; margin-top: 0.3rem;">✓ Cacheable</div><div style="font-size: 0.7rem; color: #6b7280;">✓ Smaller HTML</div><div style="font-size: 0.7rem; color: #dc2626;">✗ Extra request</div></div></div>
 Base64 encoding converts binary image data into a text string that can be embedded directly in HTML, CSS, or JavaScript. This eliminates the need for a separate image file and HTTP request.
 
 ## How Base64 Works
